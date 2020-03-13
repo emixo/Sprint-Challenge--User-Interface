@@ -227,5 +227,48 @@ nav {
 .jumbo {
     display: flex;
     justify-content: center;
-    padding:
+}
+
+.middlepage {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+    height: 890px;
+}
+button {
+    margin-top: 10px;
+    padding: 8px 20px;
+    background: white;
+    border: 1px solid black;
+    border-radius: 7px;
+}
+.mid {
+    margin: 0 10px 10px 10px;
+    width: 350px;
+    padding: 20px 0;
+    border-bottom: 1px dashed black;
+}
+
+.mid h2 {
+    margin-top: 8px;
+}
+
+.bottompage {
+    margin: 20px 0px 20px 15px;
+    display: flex;
+    justify-content: center;
+   
+}
+
+.toppage {
+    border-bottom: 1px dashed black;
+    margin: 0 10px 10px 10px;
+
+}
+
+.jumbo2 {
+    display: flex;
+    justify-content: center;
 }
