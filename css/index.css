@@ -144,3 +144,132 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+.box1 {
+    color: white;
+    margin: 20px;
+    height: 10%;
+    padding: 30px;
+    border: 10px black;
+    background-color: teal;
+}
+
+.box2 {
+    color: white;
+    margin: 20px;
+    padding: 30px;
+    background-color: gold;
+}
+
+.box3 {
+    color: white;
+    margin: 20px;
+    padding: 30px;
+    background-color: cadetblue;
+}
+
+.box4 {
+    color: white;
+    margin: 20px;
+    padding: 30px;
+    background-color: coral;
+}
+
+.box5 {
+    color: white;
+    margin: 20px;
+    padding: 30px;
+    background-color: crimson;
+}
+
+.box6 {
+    color: white;
+    margin: 20px;
+    padding: 30px;
+    background-color: forestgreen;
+}
+
+.box7 {
+    color: white;
+    margin: 20px;
+    padding: 30px;
+    background-color: darkorchid;
+}
+
+.box8 {
+    color: white;
+    margin: 20px;
+    padding: 30px;
+    background-color: hotpink;
+}
+
+.box9 {
+    color: white;
+    margin: 20px;
+    padding: 30px;
+    background-color: indigo;
+}
+
+.box10 {
+    color: white;
+    margin: 20px;
+    padding: 30px;
+    background-color: dodgerblue;
+}
+
+nav {
+    display:flex;
+    justify-content:space-evenly;
+    align-items: center;
+    margin: 20px;
+}
+
+.jumbo {
+    display: flex;
+    justify-content: center;
+}
+
+.middlepage {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+    height: 890px;
+}
+button {
+    margin-top: 10px;
+    padding: 8px 20px;
+    background: white;
+    border: 1px solid black;
+    border-radius: 7px;
+}
+.mid {
+    margin: 0 10px 10px 10px;
+    width: 350px;
+    padding: 20px 0;
+    border-bottom: 1px dashed black;
+}
+
+.mid h2 {
+    margin-top: 8px;
+}
+
+.bottompage {
+    margin: 20px 0px 20px 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.toppage {
+    border-bottom: 1px dashed black;
+    margin: 0 10px 10px 10px;
+
+}
+
+.jumbo2 {
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
